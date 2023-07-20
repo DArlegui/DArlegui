@@ -1,8 +1,8 @@
 <img align="top" alt="coding cat" width="200" src="https://images.squarespace-cdn.com/content/v1/603031ef62e49f1474b0745e/1619141012231-LCWBUTRTKW6IAIUZD52M/Attachment_1619106712+%281%29.gif">
 <br>
-# Hi there👋
+# Hiya
 I have been coding for 4 years. I recently got my associates degree in computer science from Las Positas. <br>
-Right now, I am currently a student at a coding academy [Bay Valley Tech](https://www.bayvalleytech.com/).
+Right now, I am currently a student at a coding academy [Bay Valley Tech](https://www.bayvalleytech.com/). <br>
 I am experienced in html&css, boostrap, javascript, and c++. <br>
 I’m currently learning **Javascript, Node.js and Express.js** <br>
 All of my projects are available here and logic projects at [Google Drive](https://drive.google.com/drive/u/0/folders/1S3Rl1Rbm_zpfdBPcFwitjOVQ6Y5wNDMs).
