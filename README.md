@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-I have been coding for 4 years and recently got my associates degree in computer science.
-I am experienced in html&css, boostrap, javascript, and c++.
-- 🌱 I’m currently learning **Javascript,Node.js and Express.js**
+I have been coding for 4 years and recently got my associates degree in computer science. <br>
+I am experienced in html&css, boostrap, javascript, and c++. <br>
+🌱 I’m currently learning **Javascript, Node.js and Express.js** <br>
+👨‍💻 All of my projects are available here and logic projects at [Google Drive](https://drive.google.com/drive/u/0/folders/1S3Rl1Rbm_zpfdBPcFwitjOVQ6Y5wNDMs).
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darlegui&show_icons=true&locale=en" alt="darlegui" /></p>
 
 <!--
 **DArlegui/DArlegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
