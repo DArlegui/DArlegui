@@ -3,7 +3,7 @@
 I have been coding for 4 years. I recently got my associates degree in computer science from Las Positas. <br>
 Right now, I am currently a student at a coding academy [Bay Valley Tech](https://www.bayvalleytech.com/). <br>
 I am experienced in HTML & CSS, Bootstrap, Javascript, and C++. <br/>
-I’m currently learning **Javascript, Node.js and Express.js** <br>
+I’m currently honing my Javascript knowledge and learning Node.js and Express.js <br>
 All of my web projects are available here and logic problem projects at [Google Drive](https://drive.google.com/drive/u/0/folders/1S3Rl1Rbm_zpfdBPcFwitjOVQ6Y5wNDMs).
 <br>
 <br>
